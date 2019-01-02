@@ -1,0 +1,25 @@
+h2
+{
+    color: blue ;
+}
+h1
+{
+    text-align: center; 
+    font: 15px arial, sans-serif;
+    font-size: 64px;
+    color: midnightblue
+}
+body
+{
+    background-color: red
+}
+img
+{
+    height: 200px;
+}
+ ul
+ {
+     font: 20px;
+     color: blueviolet;
+ 
+ }
