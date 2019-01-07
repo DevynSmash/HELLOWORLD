@@ -15,7 +15,7 @@ h1
     text-align: center; 
     font: 15px arial, sans-serif;
     font-size: 64px;
-    background-color: linear-gradient(red, cyan, red);
+    background-image: linear-gradient(red, cyan, red);
 }
 h1
 {
