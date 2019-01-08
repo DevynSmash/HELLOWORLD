@@ -2,9 +2,10 @@ h2
 {
     color: blue ;
 }
-h2
+#Menu
 {
-    background-image:linear-gradient(red, cornflowerblue, cornflowerblue, cornflowerblue, cornflowerblue, cornflowerblue, cornflowerblue, cornflowerblue, cornflowerblue, cornflowerblue, cornflowerblue, cornflowerblue, cornflowerblue, cornflowerblue, cornflowerblue, cornflowerblue, red);
+    background-color: linear-gradient(red, cornflowerblue, red);
+    padding: 20px;
 }
 ul
 {
@@ -63,8 +64,4 @@ body {
 h2
 {
     font-size: 30px;
-}
-#Menu
-{
-padding-top: 500px;
 }
