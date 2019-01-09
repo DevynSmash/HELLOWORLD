@@ -4,8 +4,9 @@ h2
 }
 #Menu
 {
+    font-size: 30px;
     background-color: linear-gradient(red, cornflowerblue, cornflowerblue, cornflowerblue, cornflowerblue, cornflowerblue, red);
-}
+}   
 ul
 {
     background-image: linear-gradient(red, chartreuse, chartreuse, chartreuse, chartreuse, chartreuse, chartreuse, chartreuse, chartreuse, red);
