@@ -4,8 +4,7 @@ h2
 }
 #Menu
 {
-    background-color: linear-gradient(red, cornflowerblue, red);
-    padding: 20px;
+    background-color: linear-gradient(red, cornflowerblue, cornflowerblue, cornflowerblue, cornflowerblue, cornflowerblue, red);
 }
 ul
 {
