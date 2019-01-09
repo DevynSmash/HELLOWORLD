@@ -5,7 +5,7 @@ h2
 #Menu
 {
     font-size: 30px;
-    background-image: linear-gradient(red, cornflowerblue 70%, red);
+     /* background-image: linear-gradient(red, cornflowerblue, red); */
 }   
 ul
 {
