@@ -68,5 +68,5 @@ h2
 }
 h2
 {
-    background-color: cornflowerblue
+    background-image: linear-gradient(red, cornflowerblue, red)
 }
