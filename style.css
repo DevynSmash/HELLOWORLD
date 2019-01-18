@@ -11,8 +11,8 @@ h2
 }   
 ul
 {
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     background-image: linear-gradient(red, chartreuse, chartreuse, chartreuse, chartreuse, chartreuse, chartreuse, chartreuse, chartreuse, chartreuse, chartreuse, chartreuse, chartreuse, chartreuse, chartreuse, chartreuse, chartreuse, chartreuse, chartreuse, red);
 }
 ul ul {
